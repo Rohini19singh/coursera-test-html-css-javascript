@@ -1,2 +1,7 @@
 # coursera-test-html-css-javascript
-coursera-test-html,css&amp;javascript repository
+Coursera course HTML, CSS, and Javascript for Web Developers
+
+Module 2 Solution:
+https://rohinisingh19.github.io/HTML-CSS-JS-Web-Development/mod2_solution/index.html
+Module 3 Solution:
+https://rohinisingh19.github.io/HTML-CSS-JS-Web-Development/mod3_solution/
